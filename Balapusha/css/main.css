@@ -1,0 +1,368 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Poppins:ital,wght@0,500;1,400;1,700&display=swap');
+
+.title{
+    margin-top: 1em;
+    text-align: center;
+    background-color: #fdf4f4;
+    }
+    .col-lg-6{
+        max-width: 100%;
+        text-align: center;
+        font-family: "Wensley";
+        margin-left: 0em;
+        margin-bottom: 13em;
+        margin-top: 7em;
+    }
+
+
+body {
+    margin: 0;
+    font-family: 'Wensley', sans-serif;
+    font-size: 18px;
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color:#000000;
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+element.style {
+    transition-duration: 0ms;
+    transform: translate3d(0px, 0px, 0px);
+}
+.align-items-center {
+    align-items: center !important;
+}
+.h-100 {
+    height: 100% !important;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.swiper {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+}
+
+style attribute {
+    --vh: 7.22px;
+}
+:root {
+    --swiper-theme-color: #bcac76;
+}
+    .imgLogo{
+    max-width: 100%;
+    width: 187px;
+    left: 159px;
+    top: 15px;
+    height: 52px;
+    position: absolute;
+  }
+  
+  .navbar {
+    max-width: 100%;
+    background-color: #fdf4f4;
+    padding-right: 20px;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 20px; 
+    color: black;
+    right: 25px;
+    top: 10px;
+    font-family: Montserrat;
+    font-weight: 500;
+    position: relative;
+    margin-bottom: 10px ;
+  }
+    .decoration{
+        text-decoration: underline;
+        background: #cee5d0;
+        color: #fdf4f4;
+    }
+    .navbar a {
+        font-family:"Wensley";
+        max-width: 100%;
+        color: #000000;
+        display: inline-block;
+        padding: 35px, 65px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-weight:600 ;
+        transition: all ease 0.5s;
+
+    }
+   .col{
+       background-color: #fdf4f4;
+   }
+
+
+    .content {
+        /* New Year Season */
+        max-width: 100%;
+position: relative;
+width: 50rem;
+height: 14rem;
+left: 100px;
+top: 30px;
+max-width: 100%;
+font-family: Wensley;
+font-style: normal;
+font-weight: 20em;
+font-size: 5em;
+line-height: 100%;
+/* or 130px */
+
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 32px 0px;
+    }
+    
+    .content1{
+        /* Bringing fashion back to its original and classic form */
+position: relative;
+max-width: 100%;
+width: 29.375rem;
+height: 14.813rem;
+left: 5rem;
+top: -1.875rem;
+
+font-family: Wensley;
+font-style: normal;
+font-weight: normal;
+font-size: 3.625rem;
+line-height: 100%;
+/* or 79px */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+    }
+.content2{
+    /* Fashion designers are reviving historical styles and honoring the art of garment design to create a new fashion revolution. */
+
+    max-width: 100%;
+position: relative;
+width: 30.5rem;
+height: 5.813rem;
+left: 6.875rem;
+top: -6.25rem;
+
+font-family: Wensley;
+font-style: normal;
+font-weight: normal;
+font-size: 1.5rem;
+line-height: 100%;
+/* or 31px */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+
+opacity: 0.7;
+}
+
+/* Img 1 */
+.img1{
+max-width: 100%;
+position:relative;
+
+
+background: url(img\2.jpeg);
+}
+.img2{
+    max-width: 100%;
+position: relative; }
+ 
+.content4{
+max-width: 100%;
+text-align: center;
+font-family: "Wensley";
+margin-top: 2rem;
+}
+
+.courasel-item{
+    top:-30px;
+    max-width: 100%;
+    position: relative;
+    
+}
+
+.threep{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+
+
+}
+.threep-column{
+    flex-basis: 32%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+
+}
+.threep-column img{
+    width: 90%;
+
+}
+.threeplayer{
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: 1s;
+
+}
+.threeplayer:hover{
+    background:#cee5d0;
+    opacity: 0.5;
+}
+.threeplayer h3{
+    width: 100%;
+    font-family: "Wensley";
+    font-weight: 500;
+    color: #000000;
+    font-size: 26px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    opacity: 0;
+    transition: 1s;
+    text-align: center;
+
+}
+.threeplayer:hover h3{
+    bottom: 49%;
+    opacity: 1;
+    text-align: center;
+
+
+}
+
+
+ .final1{
+    max-width: 100%;
+    position: relative;;
+    width: 400px;
+    height: 355px;
+    left: 750px;
+    top: -325px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 120px 0px;
+    font-family: Wensley;
+    font-style: normal;
+   
+    
+    font-family: Wensley;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 130%;
+    /* or 31px */
+    
+    letter-spacing: -0.04em;
+    
+    color: #000000;
+ }
+
+
+ .footer{
+    max-width: 100%;
+    max-width: 100%;
+    position: absolute;
+    width: 187px;
+    height: 52px;
+    left: 60px;
+    top: 60px;
+
+
+ }
+ .list-unstyled{
+    max-width: 100%;
+    font-family: Wensley;
+
+ }
+ 
+.font-weight-bold-text-uppercase-mt-3-mb-4{
+    font-family: Wensley;
+    max-width: 100%;
+}
+
+.end{
+    max-width: 100%;
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 450px;
+height: 373px;
+left: -8px;
+top: -600px;
+
+}
+
+.dg-widget-link{
+position: relative;
+height: inherit;
+}
+  .button:hover {
+    transform: scale(1.1, 1.1);
+  }
+
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+  
+}
+ /* end of project */
